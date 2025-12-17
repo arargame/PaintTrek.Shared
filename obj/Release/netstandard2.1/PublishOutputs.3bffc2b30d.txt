@@ -1,0 +1,4 @@
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\publish\PaintTrek.Shared.dll
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\publish\PaintTrek.Shared.deps.json
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\publish\PaintTrek.Shared.pdb
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\publish\Newtonsoft.Json.dll

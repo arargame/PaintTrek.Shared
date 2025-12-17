@@ -1,0 +1,10 @@
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\PaintTrek.Shared.deps.json
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\PaintTrek.Shared.dll
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\bin\Release\netstandard2.1\PaintTrek.Shared.pdb
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.csproj.AssemblyReference.cache
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.AssemblyInfoInputs.cache
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.AssemblyInfo.cs
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.dll
+C:\Users\ararg\source\AIRepos\PaintTrek.Shared\obj\Release\netstandard2.1\PaintTrek.Shared.pdb
