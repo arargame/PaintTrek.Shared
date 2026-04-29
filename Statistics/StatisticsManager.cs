@@ -27,11 +27,12 @@ namespace PaintTrek.Shared.Statistics
         /// <summary>
         /// Yeni level başladığında session başlat
         /// </summary>
-        public void StartSession(int levelNumber)
+        public void StartSession(int levelNumber, Guid playerId)
         {
             _currentSession = new GameSessionStats
             {
                 LevelNumber = levelNumber,
+                PlayerId = playerId,
                 CreatedDate = DateTime.UtcNow
             };
             _sessionStartTime = DateTime.UtcNow;

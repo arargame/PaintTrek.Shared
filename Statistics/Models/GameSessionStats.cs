@@ -10,6 +10,7 @@ namespace PaintTrek.Shared.Statistics
     public class GameSessionStats
     {
         public Guid Id { get; set; }
+        public Guid PlayerId { get; set; }
         public int LevelNumber { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? CompletedDate { get; set; }
