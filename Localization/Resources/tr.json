@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Güçlü Saldırı",
+  "gameplay.speedyAttack": "Hızlı Saldırı",
+  "gameplay.poisonAttack": "Zehirli Saldırı",
+  "gameplay.criticalAttack": "Kritik Saldırı",
+  "gameplay.criticalHit": "KRİTİK VURUŞ!",
+  "tips.tip17": "Yendiğiniz düşmanlar +1 {0} geri kazandırır.",
   "menu.newGame": "Yeni Oyun",
   "menu.continue": "Devam Et",
   "menu.options": "Ayarlar",

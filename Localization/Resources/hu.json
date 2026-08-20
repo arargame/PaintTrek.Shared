@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITIKUS TALÁLAT!",
+  "tips.tip17": "A legyőzött ellenfelek +1 {0}-t állítanak vissza.",
   "menu.newGame": "ÚJ JÁTÉK",
   "menu.continue": "FOLYTATÁS",
   "menu.options": "BEÁLLÍTÁSOK",

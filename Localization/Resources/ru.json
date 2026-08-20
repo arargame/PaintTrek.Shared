@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Силовая атака",
+  "gameplay.speedyAttack": "Быстрая атака",
+  "gameplay.poisonAttack": "Ядовитая атака",
+  "gameplay.criticalAttack": "Критическая атака",
+  "gameplay.criticalHit": "КРИТИЧЕСКИЙ УДАР!",
+  "tips.tip17": "За каждого побеждённого врага вы получаете +1 {0}.",
   "menu.newGame": "НОВАЯ ИГРА",
   "menu.continue": "ПРОДОЛЖИТЬ",
   "menu.options": "НАСТРОЙКИ",

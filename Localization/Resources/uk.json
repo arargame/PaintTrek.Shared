@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Потужна атака",
+  "gameplay.speedyAttack": "Швидка атака",
+  "gameplay.poisonAttack": "Отруйна атака",
+  "gameplay.criticalAttack": "Критична атака",
+  "gameplay.criticalHit": "КРИТИЧНИЙ УДАР!",
+  "tips.tip17": "Переможені вороги відновлюють +1 {0}.",
   "menu.newGame": "НОВА ГРА",
   "menu.continue": "ПРОДОВЖИТИ",
   "menu.options": "НАЛАШТУВАННЯ",

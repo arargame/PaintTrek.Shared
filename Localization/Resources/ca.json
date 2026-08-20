@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "COP CRÍTIC!",
+  "tips.tip17": "Els enemics derrotats restauren +1 {0}.",
   "menu.newGame": "PARTIDA NOVA",
   "menu.continue": "CONTINUA",
   "menu.options": "OPCIONS",

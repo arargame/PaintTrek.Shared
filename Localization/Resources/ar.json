@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "هجوم قوي",
+  "gameplay.speedyAttack": "هجوم سريع",
+  "gameplay.poisonAttack": "هجوم سام",
+  "gameplay.criticalAttack": "هجوم حرج",
+  "gameplay.criticalHit": "ضربة حرجة!",
+  "tips.tip17": "الأعداء المهزومون يعيدون +1 {0}.",
   "menu.newGame": "لعبة جديدة",
   "menu.continue": "متابعة",
   "menu.options": "الخيارات",

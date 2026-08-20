@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "КРЫТЫЧНЫ ЎДАР!",
+  "tips.tip17": "За кожнага пераможанага ворага вы атрымліваеце +1 {0}.",
   "menu.newGame": "НОВАЯ ГУЛЬНЯ",
   "menu.continue": "ПРАЦЯГНУЦЬ",
   "menu.options": "НАЛАДЫ",

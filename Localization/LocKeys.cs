@@ -83,6 +83,12 @@ namespace PaintTrek.Shared.Localization
             public const string NoEnemyToShow = "gameplay.noEnemyToShow";
             public const string Info = "gameplay.info";
             public const string Boss = "gameplay.boss";
+            public const string EnemyDefeatedHealth = "gameplay.enemyDefeatedHealth";
+            public const string CriticalHit = "gameplay.criticalHit";
+            public const string PowerAttack = "gameplay.powerAttack";
+            public const string SpeedyAttack = "gameplay.speedyAttack";
+            public const string PoisonAttack = "gameplay.poisonAttack";
+            public const string CriticalAttack = "gameplay.criticalAttack";
         }
 
         public static class Credits
@@ -129,6 +135,7 @@ namespace PaintTrek.Shared.Localization
             public const string Tip14 = "tips.tip14";
             public const string Tip15 = "tips.tip15";
             public const string Tip16 = "tips.tip16";
+            public const string Tip17 = "tips.tip17";
         }
 
         public static class Enemies

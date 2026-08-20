@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "ĐÒN CHÍ MẠNG!",
+  "tips.tip17": "Kẻ địch bị đánh bại hồi +1 {0}.",
   "menu.newGame": "CHƠI MỚI",
   "menu.continue": "TIẾP TỤC",
   "menu.options": "TÙY CHỌN",

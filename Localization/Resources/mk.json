@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "КРИТИЧЕН УДАР!",
+  "tips.tip17": "Поразените непријатели обновуваат +1 {0}.",
   "menu.newGame": "НОВА ИГРА",
   "menu.continue": "ПРОДОЛЖИ",
   "menu.options": "ОПЦИИ",

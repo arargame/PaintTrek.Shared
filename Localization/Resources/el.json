@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "ΚΡΙΣΙΜΟ ΧΤΥΠΗΜΑ!",
+  "tips.tip17": "Οι ηττημένοι εχθροί αποκαθιστούν +1 {0}.",
   "menu.newGame": "ΝΕΟ ΠΑΙΧΝΙΔΙ",
   "menu.continue": "ΣΥΝΕΧΕΙΑ",
   "menu.options": "ΡΥΘΜΙΣΕΙΣ",

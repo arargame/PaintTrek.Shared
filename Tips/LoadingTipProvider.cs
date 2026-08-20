@@ -126,6 +126,11 @@ namespace PaintTrek.Shared.Tips
                 LocKey = LocKeys.Tips.Tip16, 
                 Category = TipCategory.Menus,
                 Platform = Platform.Mobile
+            },
+            new GameTip
+            {
+                LocKey = LocKeys.Tips.Tip17,
+                Category = TipCategory.Survival
             }
         };
 

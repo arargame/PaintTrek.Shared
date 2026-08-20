@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITISK TRÄFF!",
+  "tips.tip17": "Besegrade fiender återställer +1 {0}.",
   "menu.newGame": "NYTT SPEL",
   "menu.continue": "FORTSÄTT",
   "menu.options": "INSTÄLLNINGAR",

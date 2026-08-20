@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "パワーアタック",
+  "gameplay.speedyAttack": "スピードアタック",
+  "gameplay.poisonAttack": "毒攻撃",
+  "gameplay.criticalAttack": "クリティカルアタック",
+  "gameplay.criticalHit": "クリティカル！",
+  "tips.tip17": "倒した敵は +1 {0} を回復します。",
   "menu.newGame": "ニューゲーム",
   "menu.continue": "つづきから",
   "menu.options": "オプション",

@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "GODITJE KRITIKE!",
+  "tips.tip17": "Armiqtë e mposhtur rikthejnë +1 {0}.",
   "menu.newGame": "LOJË E RE",
   "menu.continue": "VAZHDO",
   "menu.options": "OPSIONET",

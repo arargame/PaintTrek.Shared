@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Krachtige aanval",
+  "gameplay.speedyAttack": "Snelle aanval",
+  "gameplay.poisonAttack": "Gifaanval",
+  "gameplay.criticalAttack": "Kritieke aanval",
+  "gameplay.criticalHit": "KRITIEKE TREFFER!",
+  "tips.tip17": "Verslagen vijanden herstellen +1 {0}.",
   "menu.newGame": "NIEUW SPEL",
   "menu.continue": "VERDER",
   "menu.options": "OPTIES",

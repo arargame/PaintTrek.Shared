@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Potężny atak",
+  "gameplay.speedyAttack": "Szybki atak",
+  "gameplay.poisonAttack": "Trujący atak",
+  "gameplay.criticalAttack": "Atak krytyczny",
+  "gameplay.criticalHit": "TRAFIENIE KRYTYCZNE!",
+  "tips.tip17": "Pokonani wrogowie przywracają +1 {0}.",
   "menu.newGame": "NOWA GRA",
   "menu.continue": "KONTYNUUJ",
   "menu.options": "OPCJE",

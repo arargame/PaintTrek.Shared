@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "LEKDANA KRÎTÎK!",
+  "tips.tip17": "Dijminên ku hatine شكست +1 {0} vedigerînin.",
   "menu.newGame": "LÎSTIKA NÛ",
   "menu.continue": "BEŞDAR BIKIN",
   "menu.options": "HILBIARTIN",

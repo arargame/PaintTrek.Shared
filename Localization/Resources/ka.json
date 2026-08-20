@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "კრიტიკული დარტყმა!",
+  "tips.tip17": "დამარცხებული მტრები აღადგენენ +1 {0}-ს.",
   "menu.newGame": "ნამდვილი თამაში",
   "menu.continue": "გაგრძელება",
   "menu.options": "პარამეტრები",

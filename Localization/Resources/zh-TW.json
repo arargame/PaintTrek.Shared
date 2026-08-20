@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "強力攻擊",
+  "gameplay.speedyAttack": "快速攻擊",
+  "gameplay.poisonAttack": "中毒攻擊",
+  "gameplay.criticalAttack": "暴擊攻擊",
+  "gameplay.criticalHit": "暴擊！",
+  "tips.tip17": "擊敗敵人可恢復 +1 {0}。",
   "menu.newGame": "新遊戲",
   "menu.continue": "繼續",
   "menu.options": "選項",

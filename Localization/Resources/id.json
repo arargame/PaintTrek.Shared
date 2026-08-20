@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "SERANGAN KRITIS!",
+  "tips.tip17": "Musuh yang dikalahkan memulihkan +1 {0}.",
   "menu.newGame": "GAME BARU",
   "menu.continue": "LANJUTKAN",
   "menu.options": "OPSI",

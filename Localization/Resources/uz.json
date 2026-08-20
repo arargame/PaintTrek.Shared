@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITIK ZARBA!",
+  "tips.tip17": "Mag‘lub etilgan dushmanlar +1 {0} tiklaydi.",
   "menu.newGame": "YANGI OʻYIN",
   "menu.continue": "DAVOM ETISH",
   "menu.options": "SOZLAMALAR",

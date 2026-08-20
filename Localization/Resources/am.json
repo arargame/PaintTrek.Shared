@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "ወሳኝ ጥቃት!",
+  "tips.tip17": "የተሸነፉ ጠላቶች +1 {0} ያስመልሳሉ።",
   "menu.newGame": "አዲስ ጨዋታ",
   "menu.continue": "ቀጥል",
   "menu.options": "አማራጮች",

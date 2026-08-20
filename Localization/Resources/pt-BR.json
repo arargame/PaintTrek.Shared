@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Ataque poderoso",
+  "gameplay.speedyAttack": "Ataque rápido",
+  "gameplay.poisonAttack": "Ataque venenoso",
+  "gameplay.criticalAttack": "Ataque crítico",
+  "gameplay.criticalHit": "ACERTO CRÍTICO!",
+  "tips.tip17": "Inimigos derrotados restauram +1 {0}.",
   "menu.newGame": "NOVO JOGO",
   "menu.continue": "CONTINUAR",
   "menu.options": "OPÇÕES",

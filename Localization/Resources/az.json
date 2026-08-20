@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRİTİK ZƏRBƏ!",
+  "tips.tip17": "Məğlub edilən düşmənlər +1 {0} bərpa edir.",
   "menu.newGame": "YENİ OYUN",
   "menu.continue": "DAVAM ET",
   "menu.options": "AYARLAR",

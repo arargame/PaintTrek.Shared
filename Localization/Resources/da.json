@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITISK TRÆFFER!",
+  "tips.tip17": "Besejrede fjender gendanner +1 {0}.",
   "menu.newGame": "NYT SPIL",
   "menu.continue": "FORTSÆT",
   "menu.options": "INDSTILLINGER",

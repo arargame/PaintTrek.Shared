@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "파워 공격",
+  "gameplay.speedyAttack": "스피드 공격",
+  "gameplay.poisonAttack": "독 공격",
+  "gameplay.criticalAttack": "치명타 공격",
+  "gameplay.criticalHit": "치명타!",
+  "tips.tip17": "처치한 적은 +1 {0}을 회복합니다.",
   "menu.newGame": "새 게임",
   "menu.continue": "이어하기",
   "menu.options": "옵션",

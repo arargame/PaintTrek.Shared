@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Kraftangriff",
+  "gameplay.speedyAttack": "Schnellangriff",
+  "gameplay.poisonAttack": "Giftangriff",
+  "gameplay.criticalAttack": "Kritischer Angriff",
+  "gameplay.criticalHit": "KRITISCHER TREFFER!",
+  "tips.tip17": "Besiegte Gegner stellen +1 {0} wieder her.",
   "menu.newGame": "NEUES SPIEL",
   "menu.continue": "FORTSETZEN",
   "menu.options": "OPTIONEN",

@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITIČNI ZADETEK!",
+  "tips.tip17": "Premagani sovražniki obnovijo +1 {0}.",
   "menu.newGame": "NOVA IGRA",
   "menu.continue": "NADALJUJ",
   "menu.options": "MOŽNOSTI",

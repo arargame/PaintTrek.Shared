@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "โจมตีคริติคอล!",
+  "tips.tip17": "ศัตรูที่พ่ายแพ้จะฟื้นฟู +1 {0}.",
   "menu.newGame": "เกมใหม่",
   "menu.continue": "เล่นต่อ",
   "menu.options": "ตัวเลือก",

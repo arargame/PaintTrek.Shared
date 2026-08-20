@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Power Attack",
+  "gameplay.speedyAttack": "Speedy Attack",
+  "gameplay.poisonAttack": "Poison Attack",
+  "gameplay.criticalAttack": "Critical Attack",
+  "gameplay.criticalHit": "KRITINIS SMŪGIS!",
+  "tips.tip17": "Nugalėti priešai atstato +1 {0}.",
   "menu.newGame": "NAUJAS ŽAIDIMAS",
   "menu.continue": "TĘSTI",
   "menu.options": "PARINKTYS",

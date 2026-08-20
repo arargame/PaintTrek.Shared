@@ -1,5 +1,12 @@
 {
   "_meta.placeholderKeys": [],
+  "gameplay.enemyDefeatedHealth": "+{0} {1}",
+  "gameplay.powerAttack": "Attaque puissante",
+  "gameplay.speedyAttack": "Attaque rapide",
+  "gameplay.poisonAttack": "Attaque empoisonnée",
+  "gameplay.criticalAttack": "Attaque critique",
+  "gameplay.criticalHit": "COUP CRITIQUE !",
+  "tips.tip17": "Les ennemis vaincus restaurent +1 {0}.",
   "menu.newGame": "NOUVELLE PARTIE",
   "menu.continue": "CONTINUER",
   "menu.options": "OPTIONS",
