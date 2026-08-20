@@ -8,4 +8,10 @@
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
+
+  <ItemGroup>
+    <!-- Canonical localization source. Platform projects link these files into their
+         own MonoGame content/asset output at Content/Localization. -->
+    <None Include="Localization\Resources\**\*.json" />
+  </ItemGroup>
 </Project>
