@@ -196,10 +196,10 @@
   "mods.bossesDesc": "Every boss has gathered to stop the trek.",
   "mods.bossesRules": "• Wave 1 begins with Boss 1\n• Bosses continue through Boss 10\n• The boss cycle restarts after wave 10\n• Boss health rises by 10% each cycle",
   "promo.titlePaintTrek": "PAINT TREK",
-  "promo.descPaintTrek": "A colorful arcade shooter with hand-drawn worlds, bosses, and fast score chasing.",
+  "promo.descPaintTrek": "Een kleurrijke arcade shooter met handgetekende werelden, baasgevechten en snelle highscore-jachten.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Defend the city with your tank, build your skills, and chase the next high score.",
-  "promo.tapHint": "CLICK THE CARD TO VIEW ON GOOGLE PLAY",
-  "promo.continue": "CONTINUE",
-  "promo.screenTitle": "Discover Arar Games"
+  "promo.descPanzer": "Verdedig de stad met je tank, ontwikkel vaardigheden en ga voor de hoogste score.",
+  "promo.tapHint": "TIK OP DE KAART OM IN GOOGLE PLAY TE BEKIJKEN",
+  "promo.continue": "VERDER",
+  "promo.screenTitle": "Ontdek Arar Games spellen"
 }
