@@ -19,10 +19,34 @@ namespace PaintTrek.Shared.Localization
             public const string SoundSettings = "menu.soundSettings";
             public const string QuitGame = "menu.quitGame";
             public const string Back = "menu.back";
+            public const string Next = "menu.next";
+            public const string Previous = "menu.previous";
             public const string SelectLevel = "menu.selectLevel";
             public const string PressEscToBack = "menu.pressEscToBack";
             public const string Mods = "menu.mods";
             public const string Purchase = "menu.purchase";
+        }
+
+        public static class Mods
+        {
+            public const string EndlessMode = "mods.endlessMode";
+            public const string UfoInvasion = "mods.ufoInvasion";
+            public const string AgainstAllBosses = "mods.againstAllBosses";
+            public const string NoStatisticsFound = "mods.noStatisticsFound";
+            public const string EndlessModeRecord = "mods.endlessModeRecord";
+            public const string UfoInvasionRecord = "mods.ufoInvasionRecord";
+            public const string AgainstAllBossesRecord = "mods.againstAllBossesRecord";
+        }
+
+        public static class Purchase
+        {
+            public const string BuyMeACoffee = "purchase.buyMeACoffee";
+            public const string RemoveAds = "purchase.removeAds";
+            public const string UnlockAllLevels = "purchase.unlockAllLevels";
+            public const string SuperSupport = "purchase.superSupport";
+            public const string Subscription = "purchase.subscription";
+            public const string RestorePurchases = "purchase.restorePurchases";
+            public const string BuyNow = "purchase.buyNow";
         }
 
         public static class Options

@@ -1,7 +1,7 @@
 # Paint Trek Localization Coverage Report
 
 ## Summary
-- **Canonical Key Count:** 151
+- **Canonical Key Count:** 174
 - **Supported Languages Count:** 63
 - **Generated Language Count:** 61 (excluding canonical `en` and `tr`)
 - **Validation Result (Keys):** Pass (0 missing, 0 extra keys)
