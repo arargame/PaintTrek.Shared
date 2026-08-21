@@ -68,6 +68,7 @@ namespace PaintTrek.Shared.Localization
         Sinhala,
         Hindi,
         Urdu,
+        Persian,
         Bengali,
         Telugu,
         Tamil
@@ -204,6 +205,7 @@ namespace PaintTrek.Shared.Localization
             new(LanguageCode.Estonian,            "et",    "Eesti",                "Estonian",              ScriptFamily.Modern),
             new(LanguageCode.Thai,                "th",    "ไทย",                  "Thai",                  ScriptFamily.Thai),
             new(LanguageCode.Arabic,              "ar",    "العربية",              "Arabic",                ScriptFamily.Arabic, true),
+            new(LanguageCode.Persian,             "fa",    "فارسی",                "Persian",               ScriptFamily.Arabic, true),
             new(LanguageCode.Hebrew,              "he",    "עברית",                "Hebrew",                ScriptFamily.Hebrew, true),
             new(LanguageCode.Czech,               "cs",    "Čeština",              "Czech",                 ScriptFamily.Modern),
             new(LanguageCode.Hungarian,           "hu",    "Magyar",               "Hungarian",             ScriptFamily.Modern),
