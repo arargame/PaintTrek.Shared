@@ -25,6 +25,10 @@ namespace PaintTrek.Shared.Localization
             public const string PressEscToBack = "menu.pressEscToBack";
             public const string Mods = "menu.mods";
             public const string Purchase = "menu.purchase";
+            public const string Items = "menu.items";
+            public const string Enemies = "menu.enemies";
+            public const string Musics = "menu.musics";
+            public const string Leaderboards = "menu.leaderboards";
         }
 
         public static class Mods
@@ -36,6 +40,30 @@ namespace PaintTrek.Shared.Localization
             public const string EndlessModeRecord = "mods.endlessModeRecord";
             public const string UfoInvasionRecord = "mods.ufoInvasionRecord";
             public const string AgainstAllBossesRecord = "mods.againstAllBossesRecord";
+            public const string EndlessDesc = "mods.endlessDesc";
+            public const string EndlessRules = "mods.endlessRules";
+            public const string EndlessLoreTitle = "mods.endlessLoreTitle";
+            public const string EndlessLore = "mods.endlessLore";
+            public const string StartTrek = "mods.startTrek";
+            public const string BuyMode = "mods.buyMode";
+            public const string UfoDesc = "mods.ufoDesc";
+            public const string UfoRules = "mods.ufoRules";
+            public const string UfoLoreTitle = "mods.ufoLoreTitle";
+            public const string UfoLore = "mods.ufoLore";
+            public const string StartJourney = "mods.startJourney";
+            public const string BossesDesc = "mods.bossesDesc";
+            public const string BossesRules = "mods.bossesRules";
+        }
+
+        public static class Promo
+        {
+            public const string TitlePaintTrek = "promo.titlePaintTrek";
+            public const string DescPaintTrek = "promo.descPaintTrek";
+            public const string TitlePanzer = "promo.titlePanzer";
+            public const string DescPanzer = "promo.descPanzer";
+            public const string TapHint = "promo.tapHint";
+            public const string Continue = "promo.continue";
+            public const string ScreenTitle = "promo.screenTitle";
         }
 
         public static class Purchase
@@ -78,6 +106,10 @@ namespace PaintTrek.Shared.Localization
             public const string MenuSounds = "sound.menuSounds";
             public const string On = "sound.on";
             public const string Off = "sound.off";
+            public const string Paused = "sound.paused";
+            public const string Playing = "sound.playing";
+            public const string Stopped = "sound.stopped";
+            public const string MusicsOff = "sound.musicsOff";
         }
 
         public static class Gameplay
