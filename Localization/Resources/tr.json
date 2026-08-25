@@ -29,6 +29,9 @@
   "options.title": "Ayarlar Ekranı",
   "options.controllers": "Kontroller",
   "options.soundSettings": "Ses Ayarları",
+  "options.gameSettings": "Oyun Ayarları",
+  "options.privacyPolicy": "Gizlilik Politikası",
+  "options.privacyChoices": "Gizlilik Seçenekleri",
   "options.resolution": "Çözünürlük",
   "options.autoAttack": "Otomatik Saldırı",
   "options.developerMode": "Geliştirici Modu",
@@ -201,5 +204,14 @@
   "purchase.superSupport": "Süper Destek",
   "purchase.subscription": "Abonelik",
   "purchase.restorePurchases": "Satın Alımları Geri Yükle",
-  "purchase.buyNow": "Hemen Satın Al"
+  "purchase.buyNow": "Hemen Satın Al",
+  "secondChance.title": "ENDİŞELENME!",
+  "secondChance.subtitle": "Kaldığın yerden devam edebilirsin.",
+  "secondChance.watchAd": "REKLAM İZLE — {0} CANLA DEVAM ET",
+  "secondChance.buySkip": "BU BÖLÜMÜ YETERİNCE OYNADIM — SONRAKİ BÖLÜMLERE GEÇ",
+  "secondChance.giveUp": "PES ET",
+  "secondChance.loadingAd": "Ödüllü reklam hazırlanıyor…",
+  "secondChance.adUnavailable": "Ödüllü reklam şu anda hazır değil. Lütfen tekrar dene.",
+  "secondChance.processing": "Satın alma işleniyor…",
+  "secondChance.purchaseFailed": "Satın alma tamamlanmadı. Lütfen tekrar dene."
 }

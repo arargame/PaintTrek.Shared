@@ -77,11 +77,27 @@ namespace PaintTrek.Shared.Localization
             public const string BuyNow = "purchase.buyNow";
         }
 
+        public static class SecondChance
+        {
+            public const string Title = "secondChance.title";
+            public const string Subtitle = "secondChance.subtitle";
+            public const string WatchAd = "secondChance.watchAd";
+            public const string BuySkip = "secondChance.buySkip";
+            public const string GiveUp = "secondChance.giveUp";
+            public const string LoadingAd = "secondChance.loadingAd";
+            public const string AdUnavailable = "secondChance.adUnavailable";
+            public const string Processing = "secondChance.processing";
+            public const string PurchaseFailed = "secondChance.purchaseFailed";
+        }
+
         public static class Options
         {
             public const string Title = "options.title";
             public const string Controllers = "options.controllers";
             public const string SoundSettings = "options.soundSettings";
+            public const string GameSettings = "options.gameSettings";
+            public const string PrivacyPolicy = "options.privacyPolicy";
+            public const string PrivacyChoices = "options.privacyChoices";
             public const string Resolution = "options.resolution";
             public const string AutoAttack = "options.autoAttack";
             public const string DeveloperMode = "options.developerMode";

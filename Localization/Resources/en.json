@@ -29,6 +29,9 @@
   "options.title": "Options Screen",
   "options.controllers": "Controllers",
   "options.soundSettings": "Sound Settings",
+  "options.gameSettings": "Game Settings",
+  "options.privacyPolicy": "Privacy Policy",
+  "options.privacyChoices": "Privacy Choices",
   "options.resolution": "Resolution",
   "options.autoAttack": "Auto-Attack",
   "options.developerMode": "Developer Mode",
@@ -201,5 +204,14 @@
   "purchase.superSupport": "Super Support",
   "purchase.subscription": "Subscription",
   "purchase.restorePurchases": "Restore Purchases",
-  "purchase.buyNow": "Buy Now"
+  "purchase.buyNow": "Buy Now",
+  "secondChance.title": "DON'T WORRY!",
+  "secondChance.subtitle": "Continue right where you left off.",
+  "secondChance.watchAd": "WATCH AN AD — CONTINUE WITH {0} HP",
+  "secondChance.buySkip": "I'VE PLAYED THIS SECTION ENOUGH — GO TO THE NEXT LEVELS",
+  "secondChance.giveUp": "GIVE UP",
+  "secondChance.loadingAd": "Preparing your rewarded ad…",
+  "secondChance.adUnavailable": "The rewarded ad is not available right now. Please try again.",
+  "secondChance.processing": "Processing your purchase…",
+  "secondChance.purchaseFailed": "Your purchase was not completed. Please try again."
 }
