@@ -85,6 +85,7 @@ namespace PaintTrek.Shared.Localization
                 _active = _fallback.Count > 0 ? _fallback : _active;
                 Current = LanguageCode.English;
                 RefreshPlaceholders();
+                Analytics.AnalyticsManager.SetSelectedLanguage(Languages.CodeOf(Current));
                 return true;
             }
 
@@ -98,6 +99,7 @@ namespace PaintTrek.Shared.Localization
             _active = loaded;
             Current = language;
             RefreshPlaceholders();
+            Analytics.AnalyticsManager.SetSelectedLanguage(Languages.CodeOf(Current));
             Log($"SetLanguage -> {Languages.CodeOf(language)} ({loaded.Count} keys)");
             return true;
         }

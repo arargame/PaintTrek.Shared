@@ -14,6 +14,7 @@ namespace PaintTrek.Shared.Platform
     public enum StorePlatform
     {
         GooglePlay,
+        HuaweiAppGallery,
         MicrosoftStore,
         Steam
     }
