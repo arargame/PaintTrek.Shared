@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "En färgglad arkadskjutare med handritade världar, bossar och snabb poängjakt.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Försvara staden med din stridsvagn, utveckla färdigheter och nå nya poängrekord.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Undvik kosmiska faror, överlev i den djupa rymden och jaga höga poäng i denna fartfyllda arkadskjutare!",
   "promo.tapHint": "TRYCK PÅ KORTET FÖR ATT VISA PÅ GOOGLE PLAY",
   "promo.continue": "FORTSÄTT",
   "promo.screenTitle": "Utforska Arar Games-spel"

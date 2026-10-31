@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "เกมยิงอาเขตสุดสดใสพร้อมโลกวาดด้วยมือ บอส และการแข่งขันทำคะแนนสูงสุด",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "ปกป้องเมืองด้วยรถถังของคุณ อัปเกรดทักษะ และสร้างสถิติคะแนนใหม่",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "หลบหลีกอันตรายในจักรวาล เอาชีวิตรอดในอวกาศลึก และทำคะแนนสูงสุดในเกมยิงอาร์เคดสุดมันส์นี้!",
   "promo.tapHint": "แตะที่การ์ดเพื่อดูบน GOOGLE PLAY",
   "promo.continue": "ดำเนินการต่อ",
   "promo.screenTitle": "สำรวจเกมจาก Arar Games"

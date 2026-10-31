@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Un shooter arcade colorat cu lumi desenate manual, boși și curse rapide pentru scor.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Apără orașul cu tancul tău, dezvoltă abilități și luptă pentru cel mai bun scor.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Evită pericolele cosmice, supraviețuiește în spațiul profund și obține scoruri record în acest joc arcade dinamic!",
   "promo.tapHint": "ATINGE CARDUL PENTRU A VIZUALIZA PE GOOGLE PLAY",
   "promo.continue": "CONTINUĂ",
   "promo.screenTitle": "Descoperă jocurile Arar Games"

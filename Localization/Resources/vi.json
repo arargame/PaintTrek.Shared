@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Trò chơi bắn súng arcade rực rỡ với thế giới vẽ tay, đấu trùm và đua điểm số kịch tính.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Bảo vệ thành phố bằng xe tăng của bạn, rèn luyện kỹ năng và chinh phục kỷ lục mới.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Né tránh hiểm họa vũ trụ, sinh tồn ngoài không gian sâu và săn điểm số kỷ lục trong tựa game arcade tốc độ này!",
   "promo.tapHint": "NHẤP VÀO THẺ ĐỂ XEM TRÊN GOOGLE PLAY",
   "promo.continue": "TIẾP TỤC",
   "promo.screenTitle": "Khám phá trò chơi Arar Games"

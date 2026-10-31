@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "强力攻击",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "一款拥有手绘世界、Boss战和快节奏追分挑战的丰富多彩街机射击游戏。",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "使用你的坦克保卫城市，提升技能，挑战更高得分记录。",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "躲避宇宙危险，在深空中生存，并在这款快节奏的街机射击游戏中挑战最高分！",
   "promo.tapHint": "点击卡片前往 GOOGLE PLAY 查看",
   "promo.continue": "继续",
   "promo.screenTitle": "探索 Arar Games 的游戏"

@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Потужна атака",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Яскравий аркадний шутер із намальованими вручну світами, босами та швидкою гонитвою за рекордами.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Захищайте місто за допомогою танка, розвивайте навички та здобувайте нові рекорди.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Ухиляйтеся від космічних небезпек, виживайте в глибокому космосі та ставте рекорди в цьому динамічному аркадному шутері!",
   "promo.tapHint": "НАТИСНІТЬ НА ΚΑΡΤКУ, ЩОБ ПЕРЕГЛЯНУТИ В GOOGLE PLAY",
   "promo.continue": "ПРОДОВЖИТИ",
   "promo.screenTitle": "Відкрийте для себе ігри Arar Games"

@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Game tembak-menembak arkade berwarna-warni dengan dunia gambar tangan, bos, dan kejar skor tinggi.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Pertahankan kota dengan tank Anda, kembangkan keterampilan, dan raih skor tertinggi berikutnya.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Hindari bahaya kosmik, bertahan di luar angkasa, dan raih skor tertinggi di game arcade seru ini!",
   "promo.tapHint": "KETUK KARTU UNTUK MELIHAT DI GOOGLE PLAY",
   "promo.continue": "LANJUTKAN",
   "promo.screenTitle": "Jelajahi game Arar Games"

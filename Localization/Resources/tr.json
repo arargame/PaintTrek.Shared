@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Güçlü Saldırı",
@@ -194,7 +194,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "El çizimi dünyalar, bölüm sonu canavarları ve hızlı skor takibi sunan renkli bir atari oyunu.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Dabantenizle şehri koruyun, becerilerinizi geliştirin ve en yüksek skora ulaşın.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Kozmik tehlikelerden kaçın, derin uzayda hayatta kal ve bu hızlı arcade oyununda yüksek skora ulaş!",
   "promo.tapHint": "GOOGLE PLAY'DE GÖRÜNTÜLEMEK İÇİN KARTA TIKLAYIN",
   "promo.continue": "DEVAM ET",
   "promo.screenTitle": "Arar Games Oyunlarını Keşfet",

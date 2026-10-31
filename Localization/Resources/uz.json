@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -194,7 +194,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Qo'lda chizilgan dunyolar, bosslar va tezkor ball to'plash poygasi bilan rang-barang arkada otishmasi.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Tankingiz bilan shaharni himoya qiling, ko'nikmalarni oshiring va eng yaxshi natija uchun kuting.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Koinot xavflaridan qoching, chuqur fazoda omon qoling va ushbu shiddatli arkada oʻyinida yuqori natijalarga erishing!",
   "promo.tapHint": "GOOGLE PLAY'DA KO'RISH UCHUN KARTAGA BOSING",
   "promo.continue": "DAVOM ETISH",
   "promo.screenTitle": "Arar Games o'yinlarini kashf eting",

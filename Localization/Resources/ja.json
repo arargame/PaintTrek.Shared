@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "パワーアタック",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "手描きの世界、ボス戦、スピーディーなハイスコアチェイスが楽しめるカラフルなアーケードシューター。",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "戦車で街を守り、スキルを磨き、さらなるハイスコアを目指しましょう。",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "宇宙の危険を回避し、深宇宙を生き延びて、この高速アーケードシューターでハイスコアを目指そう！",
   "promo.tapHint": "カードをタップして GOOGLE PLAY で見る",
   "promo.continue": "次へ",
   "promo.screenTitle": "Arar Games のゲームを見る"

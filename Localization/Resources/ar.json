@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "هجوم قوي",
@@ -194,7 +194,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "لعبة إطلاق نار ملونة مع عوالم مرسومة يدوياً، وزعماء، ومطاردة سريعة للنقاط.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "دافع عن المدينة بدبابتك، وطور مهاراتك، وحقق أعلى نتيجة.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "تفادَ المخاطر الكونية، وابقَ على قيد الحياة في الفضاء السحيق، وحقق أعلى النقاط في لعبة الآركيد السريعة هذه!",
   "promo.tapHint": "انقر على البطاقة للمعاينة في GOOGLE PLAY",
   "promo.continue": "متابعة",
   "promo.screenTitle": "اكتشف ألعاب Arar",

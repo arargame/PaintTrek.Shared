@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Krachtige aanval",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Een kleurrijke arcade shooter met handgetekende werelden, baasgevechten en snelle highscore-jachten.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Verdedig de stad met je tank, ontwikkel vaardigheden en ga voor de hoogste score.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Ontwijk kosmische gevaren, overleef in de diepe ruimte en jaag op topscores in deze snelle arcadeshooter!",
   "promo.tapHint": "TIK OP DE KAART OM IN GOOGLE PLAY TE BEKIJKEN",
   "promo.continue": "VERDER",
   "promo.screenTitle": "Ontdek Arar Games spellen"

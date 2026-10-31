@@ -61,6 +61,8 @@ namespace PaintTrek.Shared.Localization
             public const string DescPaintTrek = "promo.descPaintTrek";
             public const string TitlePanzer = "promo.titlePanzer";
             public const string DescPanzer = "promo.descPanzer";
+            public const string TitleSpaceDodger = "promo.titleSpaceDodger";
+            public const string DescSpaceDodger = "promo.descSpaceDodger";
             public const string TapHint = "promo.tapHint";
             public const string Continue = "promo.continue";
             public const string ScreenTitle = "promo.screenTitle";

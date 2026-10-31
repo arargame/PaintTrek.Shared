@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Potężny atak",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Kolorowa strzelanka z ręcznie rysowanymi światami, bossami i szybką rywalizacją o punkty.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Broń miasta czołgiem, rozwijaj umiejętności i walcz o nowy rekord punktowy.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Unikaj kosmicznych zagrożeń, przetrwaj w głębokim kosmosie i zdobywaj rekordy w tej dynamicznej strzelance zręcznościowej!",
   "promo.tapHint": "KLIKNIJ KARTĘ, ABY ZOBACZYĆ W GOOGLE PLAY",
   "promo.continue": "KONTYNUUJ",
   "promo.screenTitle": "Odkryj gry Arar Games"

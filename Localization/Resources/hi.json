@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "हाथ से बनी दुनिया, बॉस और तेज़ स्कोर प्रतियोगिता के साथ एक रंगीन आर्केड शूटर।",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "अपने टैंक से शहर की रक्षा करें, कौशल बढ़ाएं और सर्वोच्च स्कोर प्राप्त करें।",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "ब्रह्मांडीय खतरों से बचें, गहरे अंतरिक्ष में जीवित रहें और इस तेज़ गति वाले आर्केड शूटर में उच्च स्कोर बनाएं!",
   "promo.tapHint": "GOOGLE PLAY पर देखने के लिए कार्ड पर टैप करें",
   "promo.continue": "जारी रखें",
   "promo.screenTitle": "Arar Games के गेम देखें"

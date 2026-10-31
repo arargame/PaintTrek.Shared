@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Pestrá arkádová střílečka s ručně kreslenými světy, bossy a rychlým honem za skóre.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Braňte město svým tankem, rozvíjejte dovednosti a dosáhněte nového rekordního skóre.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Uhýbejte vesmírným nástrahám, přežijte v hlubokém vesmíru a dosáhněte nejvyššího skóre v této rychlé arkádě!",
   "promo.tapHint": "KLEPNUTÍM NA KARTU ZOBRAZÍTE NA GOOGLE PLAY",
   "promo.continue": "POKRAČOVAT",
   "promo.screenTitle": "Objevte hry Arar Games"

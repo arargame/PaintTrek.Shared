@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Ένα έγχρωμο arcade shooter με χειροποίητους κόσμους, boss και γρήγορο κυνήγι βαθμολογίας.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Υπερασπιστείτε την πόλη με το τανκ σας, αναπτύξτε δεξιότητες και παλέψτε για την καλύτερη βαθμολογία.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Αποφύγετε τους κοσμικούς κινδύνους, επιβιώστε στο βαθύ διάστημα και κυνηγήστε υψηλά σκορ σε αυτό το γρήγορο arcade shooter!",
   "promo.tapHint": "ΠΑΤΗΣΤΕ ΣΤΗΝ ΚΑΡΤΑ ΓΙΑ ΠΡΟΒΟΛΗ ΣΤΟ GOOGLE PLAY",
   "promo.continue": "ΣΥΝΕΧΕΙΑ",
   "promo.screenTitle": "Ανακαλύψτε παιχνίδια της Arar Games"

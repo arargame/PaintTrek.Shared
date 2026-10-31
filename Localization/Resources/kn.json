@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Power Attack",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "A colorful arcade shooter with hand-drawn worlds, bosses, and fast score chasing.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Defend the city with your tank, build your skills, and chase the next high score.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "ಕಾಸ್ಮಿಕ್ ಅಪಾಯಗಳಿಂದ ತಪ್ಪಿಸಿಕೊಳ್ಳಿ, ಆಳವಾದ ಬಾಹ್ಯಾಕಾಶದಲ್ಲಿ ಬದುಕುಳಿಯಿರಿ ಮತ್ತು ಈ ವೇಗದ ಆರ್ಕೇಡ್ ಶೂಟರ್‌ನಲ್ಲಿ ಹೆಚ್ಚಿನ ಸ್ಕೋರ್ ಬೆನ್ನಟ್ಟಿ!",
   "promo.tapHint": "CLICK THE CARD TO VIEW ON GOOGLE PLAY",
   "promo.continue": "CONTINUE",
   "promo.screenTitle": "Discover Arar Games"

@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Ataque poderoso",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Um shooter arcade colorido com mundos desenhados à mão, chefes e corrida por pontos.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Defenda a cidade com o seu tanque, desenvolva habilidades e lute pela melhor pontuação.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Desvie de perigos cósmicos, sobreviva no espaço profundo e dispute pontuações altas neste jogo arcade eletrizante!",
   "promo.tapHint": "TOQUE NO CARTÃO PARA VER NO GOOGLE PLAY",
   "promo.continue": "CONTINUAR",
   "promo.screenTitle": "Descubra os jogos da Arar Games"

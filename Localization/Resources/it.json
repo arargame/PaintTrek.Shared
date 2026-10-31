@@ -1,4 +1,4 @@
-{
+﻿{
   "_meta.placeholderKeys": [],
   "gameplay.enemyDefeatedHealth": "+{0} {1}",
   "gameplay.powerAttack": "Attacco potente",
@@ -201,7 +201,9 @@
   "promo.titlePaintTrek": "PAINT TREK",
   "promo.descPaintTrek": "Un vivace sparatutto arcade con mondi disegnati a mano, boss e una rapida caccia ai punteggi.",
   "promo.titlePanzer": "BLOCKED: PIXEL PANZER",
-  "promo.descPanzer": "Difendi la città con il tuo carro armato, sviluppa abilità e lutta per il miglior punteggio.",
+  
+  "promo.titleSpaceDodger": "SPACE DODGER",
+  "promo.descSpaceDodger": "Schiva i pericoli cosmici, sopravvivi nello spazio profondo e scala le classifiche in questo frenetico sparatutto arcade!",
   "promo.tapHint": "TOCCA LA SCHEDA PER VISUALIZZARE SU GOOGLE PLAY",
   "promo.continue": "CONTINUA",
   "promo.screenTitle": "Scopri i giochi di Arar Games"
